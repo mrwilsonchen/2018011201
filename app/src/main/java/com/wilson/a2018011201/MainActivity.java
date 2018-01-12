@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
                         for (Animal a : houses)
                         {
                             Log.d("NET", a.district + "," + a.address);
-
+                            Log.d("NET", "Done");
                         }
                         /*
                                            try {
