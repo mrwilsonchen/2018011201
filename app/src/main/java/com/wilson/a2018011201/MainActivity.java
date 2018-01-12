@@ -34,6 +34,8 @@ public class MainActivity extends AppCompatActivity {
                         {
                             Log.d("NET", a.district + "," + a.address);
                             Log.d("NET", "Done");
+                            Log.d("NET", "Done2");
+                            Log.d("NET", "Done3");
                         }
                         /*
                                            try {
